@@ -23,5 +23,11 @@ Prototipos
 - Email: info@bancodealimentoscali.org
 - Sitio web: http://www.bancodealimentoscali.org/
 
+##Autores
+
+- Juan Felipe Delgado Vargas - https://github.com/jfdelgadovargas
+- Brandon Lecklerh Solarte Melenje - https://github.com/BrandonLeck
+- Andrés Felipe Vásquez Castrillón - https://github.com/andresfelipevasquez
+
 ## Licencia
 MIT
