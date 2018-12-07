@@ -10,7 +10,7 @@ El banco de alimentos (**ABACO**) es una organización que promueve y recibe don
 Dar a conocer a la fundación por medio de la aplicación móvil e incentivar las donaciones.
 
 ## Screenshots
-Prototipos
+# ![Screenshots](Prototypes/Screenshots.png)
 
 ## Frameworks usados
 **Construido con:**
