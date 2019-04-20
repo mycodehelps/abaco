@@ -14,7 +14,7 @@ Dar a conocer a la fundación por medio de la aplicación móvil e incentivar la
 
 ## Frameworks usados
 **Construido con:**
-- React and Redux
+- Ionic
 
 ## Contacta a la fundación en Cali:
 
